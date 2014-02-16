@@ -17,7 +17,7 @@ The basic flow of communication in a DOSA environment is very similar to how it 
 
 ### Code Syndicate
 
-We hope to introduce this new way of looking at application development so that all web-based applications will no longer be forced to rely on a central point of failure. We're starting this idea but it is open-source, please continue to refine the idea with us. We'll be working on building the initial prototype server infrastructre in C# but the idea isn't reliant on a single technology; we want this to evolve.
+We hope to introduce this new way of looking at application development so that all web-based applications will no longer be forced to rely on a central point of failure. We're starting this idea but it is open-source, please continue to refine the idea with us. We'll be working on building the initial server prototypes in C# and Node.js but the idea isn't reliant on a single technology; we want this to evolve.
 
 
 ## Server Responsibilities
